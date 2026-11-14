@@ -1,0 +1,7 @@
+{
+  "chosen_recipe": "fix_a",
+  "val_corpus_CER": 0.186,
+  "val_exact": 18,
+  "baseline_val_corpus_CER": 0.452,
+  "frozen_at": "2026-11-07T16:03:57"
+}
